@@ -17,8 +17,8 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  ogImageGenerateURL: 'https://gravatar.com/uriinsight', // The link to generate OG image, don't end with a slash
+  socialLink: 'https://twitter.com/uriinsight',
   seo: {
     keywords: ['Blog', 'Website', 'Notion', 'uriInsight', '尤叡Urii', 'urii'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
